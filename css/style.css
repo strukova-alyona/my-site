@@ -31,7 +31,7 @@ body {
 
 .surface {
   position: relative;
-  background-image: linear-gradient(to right, rgba(13, 13, 63, .85) 50%, rgba(49, 29, 94, .85) 100%), url(https://github.com/netology-code/mq-diploma/blob/master/sources/img/football_767.jpg?raw=true);
+  background-image: linear-gradient(to right, rgba(13, 13, 63, .85) 50%, rgba(49, 29, 94, .85) 100%), url(https://raw.githubusercontent.com/netology-code/mq-diploma/master/sources/img/football_767.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-color: #191536;
@@ -900,7 +900,7 @@ body {
   margin-left: 25px;
 }
 
-.download-application:hover {
+.download-application:hover, .download-application-2:hover, .download-application-1:hover {
   background-color: #714fd4;
   cursor: pointer;
 }
