@@ -966,16 +966,16 @@ body {
   margin-top: 100px;
  }
   
-  .download-app-info {
-   display: flex;
-   flex-wrap: wrap;
-   flex-direction: column;
-   width: 100%;
-   justify-content: center;
-   margin-left: auto;
-   margin-right: auto;
-   margin-top: 0px;
-  }
+ .download-app-info {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  width: 100%;
+  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0px;
+ }
 
 .download-app-promo {
  display: flex;
